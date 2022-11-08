@@ -26,11 +26,22 @@ The decisive factor for the resolution is the Sharpness, placed through the acco
 
 <h1 align=center> History </h1>
 
-__Inspiration
+__Inspiration__
 
 The Concept draws its inspiration from a mythological vision of the Opera, in which an often perceptible indication is manifested only through an abstraction beyond man himself
 The technique used has its roots in the concepts of Divisionism and Macchiaioli, transferring the importance entrusted to colors to that of shapes.
 
 
+<h2> Contacts </h2>
+
+I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
+ 
+- 🎨 Web2 Site: [https://integrityillusion.com](https://integrityillusion.com)
+- 🎨 Web3 Connecction: [integrityillusion.eth](https://integrityillusion.eth.limo)
+- 📮 Mail: [info.integrityillusion.com](mailto:info.integrityillusion.com)
+
+<h2>:artist: How to reach me:</h2>
+
+<a href="mailto:integrity.illusion@gmail.com">![integrity.illusion@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="[https://www.linkedin.com/in/herminius/](https://www.linkedin.com/in/herminius/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
