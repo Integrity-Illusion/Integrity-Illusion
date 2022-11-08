@@ -33,8 +33,6 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 
 
 <h2> Contacts </h2>
-
-I'm a Graduate Student living in Chicago, IL. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Chicago, drop an email and let's catch-up over Coffee!
  
 - 🎨 Web2 Site: [https://integrityillusion.com](https://integrityillusion.com)
 - 🎨 Web3 Connecction: [integrityillusion.eth](https://integrityillusion.eth.limo)
