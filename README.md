@@ -38,8 +38,9 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
 - 🎨 Web3 Connecction: [integrityillusion.eth](https://integrityillusion.eth.limo)
 - 📮 Mail: [info.integrityillusion.com](mailto:info.integrityillusion.com)
 
+
 <h2>:artist: How to reach me:</h2>
 
-<a href="mailto:integrity.illusion@gmail.com">![integrity.illusion@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="[https://www.linkedin.com/in/herminius/](https://www.linkedin.com/in/herminius/)">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:integrity.illusion@gmail.com">![integrity.illusion@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="[https://www.linkedin.com/in/herminius/]![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
