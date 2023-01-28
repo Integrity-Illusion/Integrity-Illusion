@@ -36,9 +36,10 @@ The technique used has its roots in the concepts of Divisionism and Macchiaioli,
  
  
 - 🎨 Web2 Site: [https://integrityillusion.com](https://integrityillusion.com)
-- 🎨 Web3 Connection: [integrityillusion.eth](https://integrityillusion.eth.limo)
+- 🎨 Web3 Connection: [integrityillusion.eth](https://integrityillusion.eth.limo) 
 - 📮 Mail: [info.integrityillusion.com](mailto:info.integrityillusion.com)
 
+ <img width="10%" align="right" src="https://github.com/Integrity-Illusion/Integrity-Illusion/blob/main/integrityIllusion_logo_github_readme.svg" />
 
 <h2>:artist: How to reach me:</h2>
 
