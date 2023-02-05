@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="integrityIllusion_banner" xmlns="http://www.w3.org/2000/svg" viewBox="400 96 700 300">
+  <rect x="400" y="96" width="700" height="300">
+    <animate id="fill_background_avorio" attributeName="fill" from="#1d1d1b" to="#fff"
+      begin="60;fill_background_1d_freeze.end" dur="2s" />
+    <animate id="fill_background_avorio_freeze" attributeName="fill" values="#fff"
+      begin="fill_background_avorio.end" dur="58s" />
+    <animate id="fill_background_1d" attributeName="fill" from="#fff" to="#1d1d1b"
+      begin="fill_background_avorio_freeze.end" dur="2s" />
+    <animate id="fill_background_1d_freeze" attributeName="fill" values="#1d1d1b"
+      begin="fill_background_1d.end" dur="58s" />
+  </rect>
+  <g>
+    <g id="integrity">
+      <path id="i_1"
+        d="M490.54,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v30.67c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_avorio_carminio" attributeName="fill" from="#fff" to="#960018"
+          begin="7;fill_letter_1d_ritorno_freeze.end+7" dur="7s" />
+        <animate id="fill_letter_carminio_freeze" attributeName="fill" values="#960018"
+          begin="fill_letter_avorio_carminio.end"
+          dur="17s" />
+        <animate id="fill_letter_avorio" attributeName="fill" from="#960018" to="#fff"
+          begin="fill_letter_carminio_freeze.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio.end"
+          dur="27s" />
+
+        <animate id="fill_letter_1d" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fill_letter_avorio_freeze.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d.end" dur="5s" />
+        <animate id="fill_letter_1d_carminio" attributeName="fill" from="#1d1d1b" to="#960018"
+          begin="fill_letter_1d_freeze.end" dur="7s" />
+        <animate id="fill_letter_carminio_2_freeze" attributeName="fill" values="#960018"
+          begin="fill_letter_1d_carminio.end"
+          dur="17s" />
+        <animate id="fill_letter_1d_ritorno" attributeName="fill" from="#960018" to="#1d1d1b"
+          begin="fill_letter_carminio_2_freeze.end" dur="2s" />
+        <animate id="fill_letter_1d_ritorno_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_ritorno.end"
+          dur="27s" />
+      </path>
+      <path id="n_1_a"
+        d="M505.16,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.07-.44-.44-.65-.44-1.07v-30.67c0-.33,.1-.62,.31-.87,.21-.25,.47-.43,.77-.54,.7-.22,1.26-.01,1.68,.62l9.53,15.35c.22,.35,.28,.72,.18,1.12s-.32,.7-.67,.92c-.35,.22-.72,.28-1.12,.2s-.7-.31-.92-.66l-6.77-10.95v25.48c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+
+        <animate id="avvio_opacita" attributeName="opacity"
+          values="1;0" begin="7;fine_opacita_1d.end+29" dur="7s"
+        />
+        <animate id="middle_opacita" attributeName="opacity"
+          values="0" begin="avvio_opacita.end" dur="17s"
+        />
+        <animate id="fine_opacita" attributeName="opacity"
+          values="0;1" begin="middle_opacita.end" dur="7s"
+        />
+
+        <animate id="fill_letter_1d_opacita" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fine_opacita.end+22" dur="2s" />
+        <animate id="fill_letter_1d_opacita_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_opacita.end" dur="58s" />
+
+        <animate id="avvio_opacita_1d" attributeName="opacity"
+          values="1;0" begin="fill_letter_1d_opacita_freeze.end-53" dur="7s"
+        />
+        <animate id="middle_opacita_1d" attributeName="opacity"
+          values="0" begin="avvio_opacita_1d.end" dur="17s"
+        />
+        <animate id="fine_opacita_1d" attributeName="opacity"
+          values="0;1" begin="middle_opacita_1d.end" dur="7s"
+        />
+
+      </path>
+      <path id="n_1_b"
+        d="M523.33,230.21c-.3,.3-.65,.44-1.07,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.14c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.07,.43,.44,.64,.44,1.05v30.14c0,.42-.15,.77-.44,1.07Z"
+        style="fill: #fff;">
+
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+
+      </path>
+      <path id="t_1_a"
+        d="M556.02,199.96h-18.15c-.42,0-.77-.14-1.07-.43s-.44-.64-.44-1.05,.15-.77,.44-1.05,.65-.43,1.07-.43h18.15c.42,0,.77,.14,1.07,.43s.44,.64,.44,1.05-.15,.77-.44,1.05-.65,.43-1.07,.43Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="t_1_b"
+        d="M547.96,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-23.93c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v23.93c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+
+        <animate id="avvio_opacita" attributeName="opacity"
+          values="1;0" begin="7;fine_opacita_1d.end+29" dur="7s"
+        />
+        <animate id="middle_opacita" attributeName="opacity"
+          values="0" begin="avvio_opacita.end" dur="17s"
+        />
+        <animate id="fine_opacita" attributeName="opacity"
+          values="0;1" begin="middle_opacita.end" dur="7s"
+        />
+
+        <animate id="fill_letter_1d_opacita" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fine_opacita.end+22" dur="2s" />
+        <animate id="fill_letter_1d_opacita_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_opacita.end" dur="58s" />
+
+        <animate id="avvio_opacita_1d" attributeName="opacity"
+          values="1;0" begin="fill_letter_1d_opacita_freeze.end-53" dur="7s"
+        />
+        <animate id="middle_opacita_1d" attributeName="opacity"
+          values="0" begin="avvio_opacita_1d.end" dur="17s"
+        />
+        <animate id="fine_opacita_1d" attributeName="opacity"
+          values="0;1" begin="middle_opacita_1d.end" dur="7s"
+        />
+      </path>
+      <path id="e_1_a"
+        d="M589.61,199.96h-18.01c-.42,0-.77-.14-1.05-.43-.29-.28-.43-.64-.43-1.05s.14-.77,.43-1.05c.28-.28,.64-.43,1.05-.43h18.01c.42,0,.77,.14,1.05,.43,.28,.28,.43,.64,.43,1.05s-.14,.77-.43,1.05c-.29,.28-.64,.43-1.05,.43Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="e_1_b"
+        d="M589.61,230.66h-17.09c-.42,0-.77-.15-1.05-.44-.29-.3-.43-.65-.43-1.07v-15.12c0-.42,.14-.77,.43-1.07,.28-.3,.64-.44,1.05-.44h11.18c.42,0,.77,.15,1.07,.44s.44,.65,.44,1.07-.15,.77-.44,1.05-.65,.43-1.07,.43h-9.7v12.16h15.61c.42,0,.77,.14,1.05,.43,.28,.28,.43,.63,.43,1.05s-.14,.77-.43,1.07c-.29,.3-.64,.44-1.05,.44Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="g_1_b"
+        d="M623.34,230.66h-8.91s-.06-.01-.1-.03c-2.76-.18-5.12-1.22-7.07-3.12-1.82-1.75-3-3.98-3.55-6.67-.02-.07-.03-.15-.03-.26v-10.19c0-.42,.15-.77,.44-1.05s.65-.43,1.07-.43,.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v10.03c.37,1.97,1.26,3.63,2.66,4.96,1.47,1.42,3.18,2.19,5.13,2.3h8.88c.42,0,.77,.14,1.07,.43,.3,.28,.44,.63,.44,1.05s-.15,.77-.44,1.07-.65,.44-1.07,.44Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="g_1_a"
+        d="M608.32,202.68c-.44,0-.8-.14-1.08-.43-.29-.28-.42-.64-.41-1.05,.01-.42,.16-.77,.44-1.05,1.97-1.93,4.33-2.98,7.07-3.16h9.01c.42,0,.77,.14,1.07,.43s.44,.64,.44,1.05-.15,.77-.44,1.05-.65,.43-1.07,.43h-8.88c-1.93,.11-3.64,.89-5.13,2.33-.31,.26-.65,.39-1.02,.39Z"
+        style="fill: #fff;">
+
+        <animate id="avvio_opacita" attributeName="opacity"
+          values="1;0" begin="7;fine_opacita_1d.end+29" dur="7s"
+        />
+        <animate id="middle_opacita" attributeName="opacity"
+          values="0" begin="avvio_opacita.end" dur="17s"
+        />
+        <animate id="fine_opacita" attributeName="opacity"
+          values="0;1" begin="middle_opacita.end" dur="7s"
+        />
+
+        <animate id="fill_letter_1d_opacita" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fine_opacita.end+22" dur="2s" />
+        <animate id="fill_letter_1d_opacita_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_opacita.end" dur="58s" />
+
+        <animate id="avvio_opacita_1d" attributeName="opacity"
+          values="1;0" begin="fill_letter_1d_opacita_freeze.end-53" dur="7s"
+        />
+        <animate id="middle_opacita_1d" attributeName="opacity"
+          values="0" begin="avvio_opacita_1d.end" dur="17s"
+        />
+        <animate id="fine_opacita_1d" attributeName="opacity"
+          values="0;1" begin="middle_opacita_1d.end" dur="7s"
+        />
+      </path>
+      <path id="g_1_c"
+        d="M624.41,229.38c-.3,.28-.65,.43-1.07,.43s-.77-.14-1.05-.43c-.29-.29-.43-.64-.43-1.05v-8.19c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.07,.43,.44,.64,.44,1.05v8.19c0,.42-.15,.77-.44,1.05Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="r_1_a"
+        d="M655.62,202.32c-.42,0-.78-.15-1.08-.46-.77-.83-1.69-1.47-2.76-1.91h-12.92c-.42,0-.77-.14-1.07-.43s-.44-.64-.44-1.05,.15-.77,.44-1.05,.65-.43,1.07-.43h13.18c.2,0,.37,.03,.53,.1,1.64,.61,3.02,1.51,4.14,2.7,.28,.31,.42,.66,.41,1.07-.01,.41-.17,.75-.48,1.04-.33,.28-.67,.43-1.02,.43Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="r_1_b"
+        d="M639.91,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.07-.44-.44-.65-.44-1.07v-15.78c0-.42,.15-.77,.44-1.07s.65-.44,1.07-.44h13.15c1.01-.33,1.82-.79,2.43-1.38,.31-.28,.66-.42,1.07-.41,.41,.01,.75,.17,1.04,.48,.28,.31,.42,.66,.41,1.07-.01,.41-.17,.75-.48,1.04-1.07,.99-2.36,1.7-3.85,2.14-.18,.04-.31,.07-.39,.07h-11.9v14.3c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="r_1_c"
+        d="M657,230.66c-.44,0-.8-.16-1.08-.49l-9.53-10.49c-.29-.31-.42-.66-.39-1.07,.02-.41,.19-.75,.49-1.04,.31-.28,.66-.42,1.07-.39,.41,.02,.75,.19,1.04,.49l9.53,10.49c.28,.31,.42,.66,.39,1.07-.02,.4-.19,.75-.49,1.04-.29,.26-.62,.39-1.02,.39Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="i_2"
+        d="M673.54,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v30.67c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="t_2_a"
+        d="M705.46,199.96h-18.15c-.42,0-.77-.14-1.07-.43s-.44-.64-.44-1.05,.15-.77,.44-1.05,.65-.43,1.07-.43h18.15c.42,0,.77,.14,1.07,.43s.44,.64,.44,1.05-.15,.77-.44,1.05-.65,.43-1.07,.43Z"
+        style="fill: #fff;">
+
+        <animate id="avvio_opacita" attributeName="opacity"
+          values="1;0" begin="7;fine_opacita_1d.end+29" dur="7s"
+        />
+        <animate id="middle_opacita" attributeName="opacity"
+          values="0" begin="avvio_opacita.end" dur="17s"
+        />
+        <animate id="fine_opacita" attributeName="opacity"
+          values="0;1" begin="middle_opacita.end" dur="7s"
+        />
+
+        <animate id="fill_letter_1d_opacita" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fine_opacita.end+22" dur="2s" />
+        <animate id="fill_letter_1d_opacita_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_opacita.end" dur="58s" />
+
+        <animate id="avvio_opacita_1d" attributeName="opacity"
+          values="1;0" begin="fill_letter_1d_opacita_freeze.end-53" dur="7s"
+        />
+        <animate id="middle_opacita_1d" attributeName="opacity"
+          values="0" begin="avvio_opacita_1d.end" dur="17s"
+        />
+        <animate id="fine_opacita_1d" attributeName="opacity"
+          values="0;1" begin="middle_opacita_1d.end" dur="7s"
+        />
+      </path>
+      <path id="t_2_b"
+        d="M697.4,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-23.93c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v23.93c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="y_1_a"
+        d="M730.05,215.31c-.57,0-1-.24-1.28-.72l-9.07-15.35c-.22-.35-.27-.72-.16-1.12,.11-.39,.34-.7,.69-.92,.35-.22,.72-.27,1.1-.16,.38,.11,.68,.34,.9,.69l9.11,15.35c.22,.35,.27,.72,.16,1.12-.11,.39-.34,.7-.69,.92-.24,.13-.49,.2-.76,.2Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="y_1_b"
+        d="M720.97,230.66c-.24,0-.49-.08-.76-.23-.35-.22-.58-.53-.69-.92-.11-.39-.06-.77,.16-1.12l9.07-15.32c.22-.35,.53-.58,.92-.69s.77-.05,1.12,.16c.35,.22,.58,.53,.69,.92,.11,.39,.05,.77-.16,1.12l-9.11,15.32c-.29,.5-.7,.76-1.25,.76Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path id="y_1_c"
+        d="M734.58,207.65c-.24,0-.49-.08-.76-.23-.35-.22-.58-.52-.69-.9-.11-.38-.06-.75,.16-1.1l4.57-7.69c.22-.35,.52-.58,.9-.69,.38-.11,.75-.05,1.1,.16,.35,.22,.58,.53,.69,.92,.11,.39,.05,.77-.16,1.12l-4.54,7.69c-.29,.48-.71,.72-1.28,.72Z"
+        style="fill: #fff;">
+
+        <animate id="avvio_opacita" attributeName="opacity"
+          values="1;0" begin="7;fine_opacita_1d.end+29" dur="7s"
+        />
+        <animate id="middle_opacita" attributeName="opacity"
+          values="0" begin="avvio_opacita.end" dur="17s"
+        />
+        <animate id="fine_opacita" attributeName="opacity"
+          values="0;1" begin="middle_opacita.end" dur="7s"
+        />
+
+        <animate id="fill_letter_1d_opacita" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fine_opacita.end+22" dur="2s" />
+        <animate id="fill_letter_1d_opacita_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_opacita.end" dur="58s" />
+
+        <animate id="avvio_opacita_1d" attributeName="opacity"
+          values="1;0" begin="fill_letter_1d_opacita_freeze.end-53" dur="7s"
+        />
+        <animate id="middle_opacita_1d" attributeName="opacity"
+          values="0" begin="avvio_opacita_1d.end" dur="17s"
+        />
+        <animate id="fine_opacita_1d" attributeName="opacity"
+          values="0;1" begin="middle_opacita_1d.end" dur="7s"
+        />
+      </path>
+      <path
+        d="M734.58,206.04c-.11,0-.15,.04-.13,.13,.02,.07,.07,.1,.13,.1,.11,0,.15-.04,.13-.13-.02-.07-.07-.1-.13-.1Z"
+        style="fill: #000;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+    </g>
+    <g id="illusion">
+      <path id="i_18"
+        d="M789.32,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v30.67c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_avorio_saffron" attributeName="fill" from="#fff" to="#eec007"
+          begin="7;fill_letter_1d_ritorno_freeze.end+7" dur="7s" />
+        <animate id="fill_letter_saffron_freeze" attributeName="fill" values="#eec007"
+          begin="fill_letter_avorio_saffron.end"
+          dur="17s" />
+        <animate id="fill_letter_avorio" attributeName="fill" from="#eec007" to="#fff"
+          begin="fill_letter_saffron_freeze.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio.end"
+          dur="27s" />
+
+        <animate id="fill_letter_1d" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="fill_letter_avorio_freeze.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d.end" dur="5s" />
+        <animate id="fill_letter_1d_saffron" attributeName="fill" from="#1d1d1b" to="#eec007"
+          begin="fill_letter_1d_freeze.end" dur="7s" />
+        <animate id="fill_letter_saffron_2_freeze" attributeName="fill" values="#eec007"
+          begin="fill_letter_1d_saffron.end"
+          dur="17s" />
+        <animate id="fill_letter_1d_ritorno" attributeName="fill" from="#eec007" to="#1d1d1b"
+          begin="fill_letter_saffron_2_freeze.end" dur="2s" />
+        <animate id="fill_letter_1d_ritorno_freeze" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_ritorno.end"
+          dur="27s" />
+      </path>
+      <path
+        d="M821.24,230.66h-18.01c-.42,0-.77-.15-1.05-.44-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v29.19h16.53c.42,0,.77,.14,1.05,.43,.28,.28,.43,.63,.43,1.05s-.14,.77-.43,1.07c-.29,.3-.64,.44-1.05,.44Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M854.96,230.66h-18.01c-.42,0-.77-.15-1.05-.44-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v29.19h16.53c.42,0,.77,.14,1.05,.43,.28,.28,.43,.63,.43,1.05s-.14,.77-.43,1.07c-.29,.3-.64,.44-1.05,.44Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M880.21,230.66h-5.06c-.09,0-.2-.02-.33-.07-1.12-.24-2.33-1.08-3.65-2.53-1.4-1.56-2.1-3.56-2.1-6.02v-23.57c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v23.6c0,1.69,.45,3.02,1.35,4.01,.7,.77,1.37,1.29,2.01,1.58h4.83c.42,0,.77,.14,1.07,.43,.3,.28,.44,.63,.44,1.05s-.15,.77-.44,1.07-.65,.44-1.07,.44Zm9.55-.44c-.3,.3-.65,.44-1.07,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.07,.43,.44,.64,.44,1.05v30.67c0,.42-.15,.77-.44,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M909.73,215.34h-.16c-1.53-.2-2.9-.72-4.11-1.58-1.14-.81-2.01-1.85-2.6-3.12-.11-.22-.16-.43-.16-.62v-6.41c0-.11,.02-.25,.07-.43,.37-1.18,.94-2.21,1.71-3.09,1.27-1.49,2.91-2.5,4.93-3.02,.18-.04,.31-.07,.39-.07h11.18c.42,0,.77,.14,1.05,.43,.28,.28,.43,.64,.43,1.05s-.14,.77-.43,1.05c-.29,.28-.64,.43-1.05,.43h-10.98c-1.38,.44-2.47,1.13-3.25,2.07-.48,.59-.83,1.19-1.05,1.81v5.82c.35,.66,.85,1.23,1.51,1.71,.83,.59,1.73,.93,2.7,1.02,.42,.04,.75,.23,1,.54,.25,.32,.36,.69,.31,1.1-.04,.37-.21,.69-.49,.94-.29,.25-.61,.38-.99,.38Zm6.8,15.32h-12.29c-.42,0-.77-.15-1.07-.44s-.44-.65-.44-1.07,.15-.77,.44-1.05c.3-.29,.65-.43,1.07-.43h12.1c1.12-.37,2.08-.91,2.89-1.61,.7-.64,1.25-1.37,1.64-2.2v-5.82c-.31-.57-.7-1.08-1.18-1.55-.57-.53-1.24-.94-2.01-1.25-.37-.15-.65-.42-.84-.79-.19-.37-.2-.74-.05-1.12,.15-.37,.42-.65,.79-.84,.37-.19,.74-.2,1.12-.05,1.14,.44,2.15,1.06,3.02,1.87,.9,.88,1.57,1.81,2.01,2.79,.09,.26,.13,.46,.13,.59v6.48c0,.13-.04,.33-.13,.59-.55,1.29-1.39,2.45-2.53,3.48-1.23,1.09-2.64,1.87-4.24,2.33-.18,.04-.32,.07-.43,.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M938.89,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.67c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.05,.43c.28,.28,.43,.64,.43,1.05v30.67c0,.42-.14,.77-.43,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M959.96,230.66c-.2,0-.41-.06-.62-.16-1.69-.79-3.16-1.87-4.4-3.25-2.59-2.89-3.88-6.51-3.88-10.85v-5.16c0-4.32,1.29-7.92,3.88-10.82,1.27-1.4,2.74-2.5,4.4-3.29,.37-.18,.75-.19,1.13-.05,.38,.14,.66,.4,.84,.77,.18,.37,.19,.75,.05,1.13-.14,.38-.4,.66-.77,.84-1.27,.61-2.41,1.47-3.42,2.56-2.1,2.35-3.16,5.29-3.16,8.84v5.16c0,3.57,1.05,6.53,3.16,8.88,.96,1.07,2.1,1.92,3.42,2.53,.37,.17,.63,.46,.77,.85,.14,.39,.13,.78-.05,1.15-.29,.57-.73,.85-1.35,.85Zm5.92-32.91c-.11,0-.15,.04-.13,.13,.02,.07,.07,.1,.13,.1,.11,0,.15-.04,.13-.13-.02-.07-.07-.1-.13-.1Zm2.76,32.91c-.61,0-1.06-.29-1.35-.85-.18-.37-.19-.76-.05-1.15,.14-.39,.4-.68,.77-.85,1.31-.61,2.45-1.46,3.42-2.53,2.1-2.35,3.16-5.29,3.16-8.84v-5.19c0-3.55-1.05-6.5-3.16-8.84-1.01-1.1-2.15-1.95-3.42-2.56-.37-.18-.63-.46-.77-.84-.14-.38-.13-.76,.05-1.13,.18-.37,.45-.63,.84-.77,.38-.14,.76-.13,1.13,.05,1.67,.79,3.13,1.89,4.4,3.29,2.59,2.89,3.88,6.5,3.88,10.82v5.16c0,4.34-1.29,7.96-3.88,10.85-1.25,1.38-2.72,2.47-4.4,3.25-.22,.11-.43,.16-.62,.16Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+      <path
+        d="M993.39,230.21c-.29,.3-.64,.44-1.05,.44s-.77-.15-1.07-.44-.44-.65-.44-1.07v-30.67c0-.33,.1-.62,.31-.87,.21-.25,.47-.43,.77-.54,.7-.22,1.26-.01,1.68,.62l9.53,15.35c.22,.35,.28,.72,.18,1.12s-.32,.7-.67,.92c-.35,.22-.72,.28-1.12,.2s-.7-.31-.92-.66l-6.77-10.95v25.48c0,.42-.14,.77-.43,1.07Zm18.16,0c-.3,.3-.65,.44-1.07,.44s-.77-.15-1.05-.44c-.29-.3-.43-.65-.43-1.07v-30.14c0-.42,.14-.77,.43-1.05,.28-.28,.64-.43,1.05-.43s.77,.14,1.07,.43,.44,.64,.44,1.05v30.14c0,.42-.15,.77-.44,1.07Z"
+        style="fill: #fff;">
+        <animate id="fill_letter_1d_I" attributeName="fill" from="#fff" to="#1d1d1b"
+          begin="60;fill_letter_avorio_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_1d_freeze_I" attributeName="fill" values="#1d1d1b"
+          begin="fill_letter_1d_I.end" dur="58s" />
+
+        <animate id="fill_letter_avorio_I" attributeName="fill" from="#1d1d1b" to="#fff"
+          begin="fill_letter_1d_freeze_I.end" dur="2s" />
+        <animate id="fill_letter_avorio_freeze_I" attributeName="fill" values="#fff"
+          begin="fill_letter_avorio_I.end" dur="58s" />
+      </path>
+    </g>
+    <g id="fragmented art" style="fill: #fff; stroke: #fff; stroke-width: 0.2px">
+      <path
+        d="M617.18,275.84h-11.26c-.26,0-.48-.09-.66-.27-.18-.18-.27-.4-.27-.66s.09-.48,.27-.66c.18-.18,.4-.27,.66-.27h11.26c.26,0,.48,.09,.66,.27,.18,.18,.27,.4,.27,.66s-.09,.48-.27,.66c-.18,.18-.4,.27-.66,.27Zm-10.03,18.91c-.18,.18-.4,.28-.66,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-9.45c0-.26,.09-.48,.27-.67,.18-.18,.4-.28,.66-.28h6.99c.26,0,.48,.09,.67,.28,.18,.19,.28,.41,.28,.67s-.09,.48-.28,.66-.41,.27-.67,.27h-6.06v8.53c0,.26-.09,.48-.27,.67Z"
+      />
+      <path
+        d="M636.66,277.32c-.26,0-.49-.1-.68-.29-.48-.52-1.05-.92-1.73-1.19h-8.07c-.26,0-.48-.09-.67-.27-.18-.18-.28-.4-.28-.66s.09-.48,.28-.66c.18-.18,.41-.27,.67-.27h8.24c.12,0,.23,.02,.33,.06,1.03,.38,1.89,.95,2.59,1.68,.18,.19,.26,.41,.26,.67,0,.25-.11,.47-.3,.65-.21,.18-.42,.27-.64,.27Zm-9.82,17.43c-.18,.18-.4,.28-.66,.28s-.48-.09-.67-.28c-.18-.19-.28-.41-.28-.67v-9.86c0-.26,.09-.48,.28-.67,.18-.18,.41-.28,.67-.28h8.22c.63-.21,1.14-.49,1.52-.86,.19-.18,.41-.26,.67-.26,.25,0,.47,.11,.65,.3,.18,.19,.26,.42,.26,.67,0,.25-.11,.47-.3,.65-.67,.62-1.47,1.06-2.4,1.34-.11,.03-.19,.04-.25,.04h-7.44v8.94c0,.26-.09,.48-.27,.67Zm10.68,.28c-.27,0-.5-.1-.68-.31l-5.96-6.55c-.18-.19-.26-.41-.25-.67,.01-.25,.12-.47,.31-.65,.19-.18,.41-.26,.67-.25,.25,.01,.47,.12,.65,.31l5.96,6.55c.18,.19,.26,.41,.25,.67-.01,.25-.12,.47-.31,.65-.18,.16-.39,.25-.64,.25Z"
+      />
+      <path
+        d="M647.22,295.03s-.12-.02-.29-.06c-.25-.07-.43-.22-.54-.44-.12-.23-.14-.46-.07-.71l5.96-19.17c.07-.25,.22-.43,.45-.54,.23-.12,.47-.14,.72-.07s.42,.22,.53,.45c.11,.23,.13,.47,.06,.72l-5.94,19.17c-.06,.19-.17,.35-.34,.47-.17,.12-.35,.18-.54,.18Zm6.18-7.09h-3.49c-.26,0-.48-.09-.66-.27-.18-.18-.27-.4-.27-.66s.09-.48,.27-.66c.18-.18,.4-.27,.66-.27h3.49c.26,0,.48,.09,.67,.27s.28,.4,.28,.66-.09,.48-.28,.66-.41,.27-.67,.27Zm5.16,7.09c-.45,0-.75-.23-.88-.68l-3.51-12.43c-.07-.25-.04-.48,.09-.71,.13-.23,.32-.37,.56-.44s.48-.04,.7,.08c.22,.12,.36,.31,.43,.55l3.51,12.43c.07,.25,.04,.48-.08,.71-.12,.23-.31,.37-.55,.44-.11,.03-.2,.04-.27,.04Z"
+      />
+      <path
+        d="M679.6,295.03h-5.57s-.03,0-.06-.02c-1.73-.11-3.2-.76-4.42-1.95-1.14-1.1-1.88-2.49-2.22-4.17-.01-.04-.02-.1-.02-.16v-6.37c0-.26,.09-.48,.28-.66,.18-.18,.41-.27,.67-.27s.48,.09,.66,.27c.18,.18,.27,.4,.27,.66v6.27c.23,1.23,.79,2.27,1.66,3.1,.92,.89,1.99,1.37,3.21,1.44h5.55c.26,0,.48,.09,.67,.27s.28,.4,.28,.66-.09,.48-.28,.67c-.18,.18-.41,.28-.67,.28Zm-9.39-17.48c-.27,0-.5-.09-.68-.27-.18-.18-.26-.4-.26-.66,0-.26,.1-.48,.28-.66,1.23-1.21,2.71-1.86,4.42-1.97h5.63c.26,0,.48,.09,.67,.27,.18,.18,.28,.4,.28,.66s-.09,.48-.28,.66c-.18,.18-.41,.27-.67,.27h-5.55c-1.21,.07-2.27,.55-3.21,1.46-.19,.16-.4,.25-.64,.25Zm10.06,16.68c-.18,.18-.41,.27-.67,.27s-.48-.09-.66-.27c-.18-.18-.27-.4-.27-.66v-5.12c0-.26,.09-.48,.27-.66,.18-.18,.4-.27,.66-.27s.48,.09,.67,.27,.28,.4,.28,.66v5.12c0,.26-.09,.48-.28,.66Z"
+      />
+      <path
+        d="M689.85,294.75c-.18,.18-.4,.28-.66,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-19.17c0-.36,.16-.62,.47-.8,.33-.18,.64-.17,.95,.02l8.14,5.07c.22,.14,.36,.33,.41,.59,.05,.25,.01,.49-.12,.71-.14,.22-.33,.36-.58,.41-.25,.06-.48,.01-.7-.12l-6.72-4.19v17.48c0,.26-.09,.48-.27,.67Zm15.49,0c-.18,.18-.4,.28-.66,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-18.84c0-.26,.09-.48,.27-.66,.18-.18,.4-.27,.66-.27s.48,.09,.66,.27c.18,.18,.27,.4,.27,.66v18.84c0,.26-.09,.48-.27,.67Z"
+      />
+      <path
+        d="M725.77,275.84h-11.26c-.26,0-.48-.09-.66-.27-.18-.18-.27-.4-.27-.66s.09-.48,.27-.66c.18-.18,.4-.27,.66-.27h11.26c.26,0,.48,.09,.66,.27,.18,.18,.27,.4,.27,.66s-.09,.48-.27,.66c-.18,.18-.4,.27-.66,.27Zm0,19.19h-10.68c-.26,0-.48-.09-.66-.28-.18-.19-.27-.41-.27-.67v-9.45c0-.26,.09-.48,.27-.67,.18-.18,.4-.28,.66-.28h6.99c.26,0,.48,.09,.67,.28,.18,.19,.28,.41,.28,.67s-.09,.48-.28,.66-.41,.27-.67,.27h-6.06v7.6h9.76c.26,0,.48,.09,.66,.27,.18,.18,.27,.4,.27,.66s-.09,.48-.27,.67c-.18,.18-.4,.28-.66,.28Z"
+      />
+      <path
+        d="M736.04,294.75c-.18,.18-.4,.28-.66,.28s-.48-.09-.67-.28c-.18-.19-.28-.41-.28-.67v-19.17c0-.21,.06-.39,.2-.54,.13-.16,.29-.27,.48-.34,.44-.14,.79,0,1.05,.39l5.96,9.59c.14,.22,.17,.45,.11,.7s-.2,.44-.42,.58c-.22,.14-.45,.18-.7,.12s-.44-.19-.58-.41l-4.23-6.84v15.92c0,.26-.09,.48-.27,.67Zm11.35,0c-.18,.18-.41,.28-.67,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-18.84c0-.26,.09-.48,.27-.66,.18-.18,.4-.27,.66-.27s.48,.09,.67,.27c.18,.18,.28,.4,.28,.66v18.84c0,.26-.09,.48-.28,.67Z"
+      />
+      <path
+        d="M767.82,275.84h-11.34c-.26,0-.48-.09-.67-.27-.18-.18-.28-.4-.28-.66s.09-.48,.28-.66c.18-.18,.41-.27,.67-.27h11.34c.26,0,.48,.09,.67,.27,.18,.18,.28,.4,.28,.66s-.09,.48-.28,.66c-.18,.18-.41,.27-.67,.27Zm-5.03,18.91c-.18,.18-.4,.28-.66,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-14.96c0-.26,.09-.48,.27-.66s.4-.27,.66-.27,.48,.09,.66,.27,.27,.4,.27,.66v14.96c0,.26-.09,.48-.27,.67Z"
+      />
+      <path
+        d="M788.82,275.84h-11.26c-.26,0-.48-.09-.66-.27-.18-.18-.27-.4-.27-.66s.09-.48,.27-.66c.18-.18,.4-.27,.66-.27h11.26c.26,0,.48,.09,.66,.27,.18,.18,.27,.4,.27,.66s-.09,.48-.27,.66c-.18,.18-.4,.27-.66,.27Zm0,19.19h-10.68c-.26,0-.48-.09-.66-.28-.18-.19-.27-.41-.27-.67v-9.45c0-.26,.09-.48,.27-.67,.18-.18,.4-.28,.66-.28h6.99c.26,0,.48,.09,.67,.28,.18,.19,.28,.41,.28,.67s-.09,.48-.28,.66-.41,.27-.67,.27h-6.06v7.6h9.76c.26,0,.48,.09,.66,.27s.27,.4,.27,.66-.09,.48-.27,.67c-.18,.18-.4,.28-.66,.28Z"
+      />
+      <path
+        d="M810.57,287.33c-.18,.18-.41,.27-.67,.27s-.48-.09-.66-.27c-.18-.18-.27-.4-.27-.66v-6.27c-.23-1.23-.79-2.27-1.66-3.1-.93-.9-2-1.39-3.21-1.46h-5.55c-.26,0-.48-.09-.67-.27-.18-.18-.28-.4-.28-.66s.09-.48,.28-.66c.18-.18,.41-.27,.67-.27h5.63c1.71,.11,3.18,.77,4.42,1.97,1.15,1.1,1.89,2.48,2.22,4.15,.01,.04,.02,.1,.02,.18v6.37c0,.26-.09,.48-.28,.66Zm-6.44,7.7h-5.57c-.26,0-.48-.09-.67-.28-.18-.19-.28-.41-.28-.67s.09-.48,.28-.66,.41-.27,.67-.27h5.55c1.22-.07,2.29-.55,3.21-1.44,.18-.18,.4-.26,.66-.26,.26,0,.48,.1,.66,.28s.26,.4,.26,.66c0,.26-.1,.48-.28,.66-1.22,1.19-2.69,1.84-4.42,1.95h-.02s-.03,.02-.04,.02Z"
+      />
+      <path
+        d="M840.64,295.03s-.12-.02-.29-.06c-.25-.07-.43-.22-.54-.44-.12-.23-.14-.46-.07-.71l5.96-19.17c.07-.25,.22-.43,.45-.54,.23-.12,.47-.14,.72-.07s.42,.22,.53,.45,.13,.47,.06,.72l-5.94,19.17c-.06,.19-.17,.35-.34,.47-.17,.12-.35,.18-.54,.18Zm6.18-7.09h-3.49c-.26,0-.48-.09-.66-.27s-.27-.4-.27-.66,.09-.48,.27-.66,.4-.27,.66-.27h3.49c.26,0,.48,.09,.67,.27s.28,.4,.28,.66-.09,.48-.28,.66-.41,.27-.67,.27Zm5.16,7.09c-.45,0-.75-.23-.88-.68l-3.51-12.43c-.07-.25-.04-.48,.09-.71,.13-.23,.32-.37,.56-.44s.48-.04,.7,.08,.36,.31,.43,.55l3.51,12.43c.07,.25,.04,.48-.08,.71-.12,.23-.31,.37-.55,.44-.11,.03-.2,.04-.27,.04Z"
+      />
+      <path
+        d="M872.15,277.32c-.26,0-.49-.1-.68-.29-.48-.52-1.05-.92-1.73-1.19h-8.07c-.26,0-.48-.09-.67-.27-.18-.18-.28-.4-.28-.66s.09-.48,.28-.66c.18-.18,.41-.27,.67-.27h8.24c.12,0,.23,.02,.33,.06,1.03,.38,1.89,.95,2.59,1.68,.18,.19,.26,.41,.26,.67,0,.25-.11,.47-.3,.65-.21,.18-.42,.27-.64,.27Zm-9.82,17.43c-.18,.18-.4,.28-.66,.28s-.48-.09-.67-.28c-.18-.19-.28-.41-.28-.67v-9.86c0-.26,.09-.48,.28-.67,.18-.18,.41-.28,.67-.28h8.22c.63-.21,1.14-.49,1.52-.86,.19-.18,.41-.26,.67-.26,.25,0,.47,.11,.65,.3s.26,.42,.26,.67c0,.25-.11,.47-.3,.65-.67,.62-1.47,1.06-2.4,1.34-.11,.03-.19,.04-.25,.04h-7.44v8.94c0,.26-.09,.48-.27,.67Zm10.68,.28c-.27,0-.5-.1-.68-.31l-5.96-6.55c-.18-.19-.26-.41-.25-.67,.01-.25,.12-.47,.31-.65s.41-.26,.67-.25c.25,.01,.47,.12,.65,.31l5.96,6.55c.18,.19,.26,.41,.25,.67-.01,.25-.12,.47-.31,.65-.18,.16-.39,.25-.64,.25Z"
+      />
+      <path
+        d="M894.05,275.84h-11.34c-.26,0-.48-.09-.67-.27-.18-.18-.28-.4-.28-.66s.09-.48,.28-.66c.18-.18,.41-.27,.67-.27h11.34c.26,0,.48,.09,.67,.27,.18,.18,.28,.4,.28,.66s-.09,.48-.28,.66c-.18,.18-.41,.27-.67,.27Zm-5.03,18.91c-.18,.18-.4,.28-.66,.28s-.48-.09-.66-.28c-.18-.19-.27-.41-.27-.67v-14.96c0-.26,.09-.48,.27-.66s.4-.27,.66-.27,.48,.09,.66,.27,.27,.4,.27,.66v14.96c0,.26-.09,.48-.27,.67Z"
+      />
+      <animate id="fill_camaleonte" attributeName="fill"
+        values="#fffff0;#ff0000;#ffff00;#00ff00;#0000ff;#7a6167;#fffff0"
+        dur="60s" keytimes="0;0.1;0.25;0.5;0.75;0.9;1" begin="3s" repeatCount="indefinite"></animate>
+
+      <animate id="stroke_letter_1d_I" attributeName="stroke" from="#fff" to="#1d1d1b"
+        begin="60;stroke_letter_avorio_freeze_I.end" dur="2s" />
+      <animate id="stroke_letter_1d_freeze_I" attributeName="stroke" values="#1d1d1b"
+        begin="stroke_letter_1d_I.end" dur="58s" />
+
+      <animate id="stroke_letter_avorio_I" attributeName="stroke" from="#1d1d1b" to="#fff"
+        begin="stroke_letter_1d_freeze_I.end" dur="2s" />
+      <animate id="stroke_letter_avorio_freeze_I" attributeName="stroke" values="#fff"
+        begin="stroke_letter_avorio_I.end" dur="58s" />
+
+    </g>
+  </g>
+</svg>
