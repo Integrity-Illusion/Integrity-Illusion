@@ -1,5 +1,5 @@
 
-![Integrity Illusion](https://raw.githubusercontent.com/Integrity-Illusion/Integrity-Illusion/main/integrityillusion_banner.svg)
+![Integrity Illusion](https://github.com/Integrity-Illusion/Integrity-Illusion/blob/main/integrityillusion_banner_github.svg)
 
 <h1 align=center> Demarcation </h1>
 
