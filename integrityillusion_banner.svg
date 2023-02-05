@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="integrityIllusion_banner" xmlns="http://www.w3.org/2000/svg"   viewBox="138 0 1200 500">
-  <rect x="138" y="0" width="1200" height="500">
+<svg id="integrityIllusion_banner" xmlns="http://www.w3.org/2000/svg"   viewBox="238 0 1000 500">
+  <rect x="238" y="0" width="1000" height="500">
     <animate id="fill_background_avorio" attributeName="fill" from="#1d1d1b" to="#fff"
       begin="60;fill_background_1d_freeze.end" dur="2s" />
     <animate id="fill_background_avorio_freeze" attributeName="fill" values="#fff"
