@@ -20,7 +20,7 @@ Art of interpretation. In the Roman conception hermeneutics approaches the ancie
 
 __Illusione di Integrità__
 
-Integrity Illusion is an ever-changing Blend; an infinite non-homothetic Fractal aimed at Scalability through the addition or removal of Quantum units, similar or heterogeneous, called Fragments. Each Fragment is at the same time composition and part of composition.
+Integrity Illusion is an ever-changing Blend aimed at Scalability through the addition or removal of units, similar or heterogeneous, called Fragments. Each Fragment is at the same time composition and part of a composition.
 From their union and disintegration derives a constant Evolution of the Order dominated by a series of characteristic elements (colors, shapes, dispositions) that culminate in the Expression of the moment, single or collective, of the Work.
 The decisive factor for the resolution is the Sharpness, placed through the accommodation of the Demarcations; which sometimes contain and sometimes limit.
 
